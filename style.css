@@ -1,0 +1,24 @@
+body {
+    background-color: hotpink;
+    display: flex;
+    justify-content: center;
+    padding: 60px;
+    font-family: Arial, sans-serif;
+}
+.cartao {
+    background-color: white;
+    border-radius: 12px;
+    padding: 40px;
+    text-align: center;
+    width: 320px;
+}
+.profissao { color: #888888; font-size: 14px; }
+.contatos a {
+    display: inline-block;
+    margin: 8px;
+    padding: 8px 16px;
+    background-color: darkmagenta;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+}
